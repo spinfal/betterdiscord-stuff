@@ -3,7 +3,11 @@
 stuff for betterdiscord, whatelse would it be idiot
 
 ---
-- `smooth.css` is a combo of https://github.com/6uv/Best-css-for-discord and https://github.com/LuckFire/amoled-cord/tree/main/src, with some other changes. such as no gradient running in the background so your cpu no longer dies
+- `smooth.css` is a combo of multiple themes, and has some modifications from me.
+  - themes used:
+    - https://github.com/6uv/Best-css-for-discord
+    - https://github.com/LuckFire/amoled-cord/tree/main/src
+    - https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/SettingsModal
 
 ---
 # changelog
