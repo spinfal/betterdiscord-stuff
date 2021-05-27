@@ -23,3 +23,5 @@ stuff for betterdiscord, whatelse would it be idiot
   - fix emote and mlv2 plugin colors
 - v1.5
   - version in the file will remain as ∞, changelog will be here.
+- v1.6
+  - added the settings modal and fixed the emote button
