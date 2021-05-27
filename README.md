@@ -7,9 +7,15 @@ stuff for betterdiscord, whatelse would it be idiot
 
 ---
 # changelog
-v1.0 - initial release 
-v1.1 - some fixes
-v1.2 - color fixes for friend list
-v1.3 - fix search filter color
-v1.4 - fix emote and mlv2 plugin colors
-v1.5 - version in the file will remain as ∞, changelog will be here.
+- v1.0
+  - initial release 
+- v1.1
+  - some fixes
+- v1.2
+  - color fixes for friend list
+- v1.3
+  - fix search filter color
+- v1.4
+  - fix emote and mlv2 plugin colors
+- v1.5
+  - version in the file will remain as ∞, changelog will be here.
