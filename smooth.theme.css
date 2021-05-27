@@ -1,6 +1,6 @@
 /**
     * @name Smooth-AMOLED
-    * @version 1.0.0
+    * @version 1.1
     * @description A nice theme that merges https://github.com/6uv/Best-css-for-discord and https://github.com/LuckFire/amoled-cord/tree/main/src
     * @author spin~#5150
     *
@@ -8,8 +8,7 @@
     * @source https://github.com/spinfal/betterdiscord-stuff/blob/main/smooth.theme.css
 **/
 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
-@import url(https://aokiare.github.io/addons/apple/base.css);
+@import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 @import url('https://discordstyles.github.io/RadialStatus/base.css');
 
 :root {
