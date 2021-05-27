@@ -27,3 +27,5 @@ stuff for betterdiscord, whatelse would it be idiot
   - added the settings modal and fixed the emote button
 - v1.7
   - fixed the upload modal colors
+- v1.8
+  - fixed new group dm and keyboard shortcut modal colors
