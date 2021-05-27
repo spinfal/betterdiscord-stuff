@@ -25,3 +25,5 @@ stuff for betterdiscord, whatelse would it be idiot
   - version in the file will remain as ∞, changelog will be here.
 - v1.6
   - added the settings modal and fixed the emote button
+- v1.7
+  - fixed the upload modal colors
