@@ -28,4 +28,4 @@ stuff for betterdiscord, whatelse would it be idiot
 - v1.7
   - fixed the upload modal colors
 - v1.8
-  - fixed new group dm and keyboard shortcut modal colors
+  - fixed new group dm, keyboard shortcut, and quick switch modal colors
