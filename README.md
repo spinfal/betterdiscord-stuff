@@ -29,3 +29,5 @@ stuff for betterdiscord, whatelse would it be idiot
   - fixed the upload modal colors
 - v1.8
   - fixed new group dm, keyboard shortcut, and quick switch modal colors
+- v1.9
+  - fixed the create server/join server modal colors
