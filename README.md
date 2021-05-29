@@ -31,3 +31,5 @@ stuff for betterdiscord, whatelse would it be idiot
   - fixed new group dm, keyboard shortcut, and quick switch modal colors
 - v1.9
   - fixed the create server/join server modal colors
+- v2.0
+  - made the search button use `cursor` instead, and some other fixes
