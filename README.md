@@ -34,4 +34,4 @@ stuff for betterdiscord, whatelse would it be idiot
 - v2.0
   - made the search button use `cursor` instead, and some other fixes
 - v2.1
-  - made the creat/join server and discovery btn backgrounds transparent, fixed the server discovery background color, other small color changes
+  - made the create/join server and discovery btn backgrounds transparent, fixed the server discovery background color, other small color changes
