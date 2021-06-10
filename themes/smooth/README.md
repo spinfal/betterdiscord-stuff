@@ -25,3 +25,5 @@
   - made the create/join server and discovery btn backgrounds transparent, fixed the server discovery background color, other small color changes
 - v2.2
   - removed some useless css so the theme loads slightly faster, and added more rounded context buttons 
+- v2.3
+  - fixed the colors for the delete message prompt and server boost modal
