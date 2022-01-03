@@ -1,0 +1,35 @@
+/**
+    * @name About Me Extender
+    * @version ∞
+    * @description A simple theme that allows you to scroll on About Me sections that have too much content.
+    * @author spin~#5150
+    *
+    * @website https://spin.tk
+    * @source https://github.com/spinfal/betterdiscord-stuff/blob/main/smooth.css
+**/
+
+.clamped-IwJfxR {
+    overflow-y: visible;
+}
+
+/* width */
+.clamped-IwJfxR::-webkit-scrollbar {
+    width: 9px;
+}
+
+/* Track */
+.clamped-IwJfxR::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #2E3338;
+}
+
+/* Handle */
+.clamped-IwJfxR::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #202225;
+}
+
+/* Handle on hover */
+.clamped-IwJfxR::-webkit-scrollbar-thumb:hover {
+    background: #202225;
+}
