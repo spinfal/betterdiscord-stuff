@@ -8,28 +8,4 @@
     * @source https://github.com/spinfal/betterdiscord-stuff/blob/main/themes/about%20me%20extender/aboutme.theme.css
 **/
 
-.clamped-IwJfxR {
-    overflow-y: visible;
-}
-
-/* width */
-.clamped-IwJfxR::-webkit-scrollbar {
-    width: 9px;
-}
-
-/* Track */
-.clamped-IwJfxR::-webkit-scrollbar-track {
-    border-radius: 10px;
-    background: #2E3338;
-}
-
-/* Handle */
-.clamped-IwJfxR::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    background: #202225;
-}
-
-/* Handle on hover */
-.clamped-IwJfxR::-webkit-scrollbar-thumb:hover {
-    background: #202225;
-}
+@import url('https://www.clit.ga/ca6xNn.css')
